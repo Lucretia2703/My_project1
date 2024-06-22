@@ -30,6 +30,8 @@ import pandas as pd
 import plotly.express as px
 ```
 ---
+[![видео](C:\Users\sofia\Desktop\превью.png)(C:\Users\sofia\Desktop\Dash и еще 11 страниц — Личный_ Microsoft​ Edge 2024-06-22 23-54-21.mp4)]
+---
 
 ## Вопросы, на которые могут получить ответ пользователи нашего дашборда: ##
 1. Насколько хорошо играет футболист?
