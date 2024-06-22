@@ -29,6 +29,7 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.express as px
 ```
+---
 
 ## Вопросы, на которые могут получить ответ пользователи нашего дашборда: ##
 1. Насколько хорошо играет футболист?
