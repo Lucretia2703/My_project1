@@ -26,10 +26,8 @@
 
 ```
 import dash_bootstrap_components as dbc
-from dash import Dash, Input, Output, dcc, html
-from pages import statistic, player, clubs, infoInCards, mainInfo
 import pandas as pd
-
+import plotly.express as px
 ```
 
 ## Вопросы, на которые могут получить ответ пользователи нашего дашборда: ##
