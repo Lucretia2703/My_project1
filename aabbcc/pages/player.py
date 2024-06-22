@@ -37,7 +37,7 @@ layout = dbc.Container([
                     {'label':'Забитые голы', 'value': 'Goals'},
                     {'label':'Сыгранные матчи', 'value': 'Matches_Played'},
                     {'label':'Время игр', 'value': 'Mins'},
-                    {'label':'Перспективность', 'value': 'xG'},
+                    {'label':'Перспективность', 'value': 'Excellence'},
                 ],
                 id = 'crossfilter-index',
                 value = 'Goals',
