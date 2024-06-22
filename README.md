@@ -17,10 +17,20 @@
 
 ---
 
-## Данные для дашборда##
+## Данные для дашборда ##
 Данные, которые содержит дашборд, мы взяли на известной платформе kaggle, где содержится множество датасетов. После тщательного анализа ~всех существующих на этой платформе~ датасетов на эту тематику, был выбран именно этот датасет <https://docs.google.com/spreadsheets/d/e/2PACX-1vTaSitw4fUqP_GgSp1VXwT6NqCXSUY9xIK_vx3LZk6GZbNlM_N1efmyvjQ6qdZCGoPCTEQYhZoW3NDA/pub?output=csv>, так как он содержит все необходимые данные для анализа футболистов.
 
 ---
+
+## Используемые библиотеки ##
+
+```
+import dash_bootstrap_components as dbc
+from dash import Dash, Input, Output, dcc, html
+from pages import statistic, player, clubs, infoInCards, mainInfo
+import pandas as pd
+
+```
 
 ## Вопросы, на которые могут получить ответ пользователи нашего дашборда: ##
 1. Насколько хорошо играет футболист?
