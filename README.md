@@ -22,7 +22,7 @@
 
 ---
 
-  [Видео] (https://disk.yandex.ru/client/disk/Дашборд DataFootball)
+  [Видео](https://disk.yandex.ru/client/disk/Дашборд DataFootball)
 
 
 ---
