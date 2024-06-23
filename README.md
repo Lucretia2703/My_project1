@@ -24,7 +24,8 @@
 
 Для наглядной демонстрации работы нашего дашборда, можете посмотреть [Видео с работой нашего дашборда](https://disk.yandex.ru/d/d9ZC36fmc9P-4A/IMG_5029.MOV) 
 
-![Изображение](https://disk.yandex.ru/d/d9ZC36fmc9P-4A/prevyu.png)
+![превью](https://github.com/Lucretia2703/My_project1/assets/171303358/9f7c10bb-1c57-4298-9e7d-587c11dfa554)
+
 
 [![Хотелось бы так](https://disk.yandex.ru/i/pjXwA4gGY2wjfw)](https://disk.yandex.ru/d/d9ZC36fmc9P-4A/IMG_5029.MOV)
 
