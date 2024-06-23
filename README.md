@@ -22,8 +22,7 @@
 
 ---
 
-![Видео][1]
-[1]:img width="880" alt="превью" src="https://github.com/Lucretia2703/My_project1/assets/171303358/afa2f25a-cdde-4165-a446-488e1d0570cf"
+  [Видео] (https://disk.yandex.ru/client/disk/Дашборд DataFootball)
 
 
 ---
