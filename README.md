@@ -22,6 +22,7 @@
 
 ---
 
+[![Видео](https://disk.yandex.ru/i/pjXwA4gGY2wjfw)](https://disk.yandex.ru/d/d9ZC36fmc9P-4A/IMG_5029.MOV)
 
 [Видео](https://disk.yandex.ru/d/d9ZC36fmc9P-4A/IMG_5029.MOV)
 
