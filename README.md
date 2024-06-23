@@ -22,11 +22,13 @@
 
 ---
 
+Для наглядной демонстрации работы нашего дашборда, можете посмотреть [Видео с работой нашего дашборда](https://disk.yandex.ru/d/d9ZC36fmc9P-4A/IMG_5029.MOV) 
+
 ![Изображение](https://disk.yandex.ru/i/pjXwA4gGY2wjfw)
 
 [![Хотелось бы так](https://disk.yandex.ru/i/pjXwA4gGY2wjfw)](https://disk.yandex.ru/d/d9ZC36fmc9P-4A/IMG_5029.MOV)
 
-[Видео пока что так](https://disk.yandex.ru/d/d9ZC36fmc9P-4A/IMG_5029.MOV)
+
 
 ---
 
