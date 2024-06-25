@@ -65,7 +65,7 @@ pip install dash-bootstrap-components
 pip install pandas  
 pip install plotly-express  
  6. Запуск проекта  
-Выполнить команду python app.py  
+Выполнить команду `python app.py`  
  7. Доступ к дашборду  
 Откройте браузер и перейдите по адресу http://localhost:8050
 
