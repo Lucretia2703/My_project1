@@ -53,17 +53,17 @@ import plotly.express as px
 Перейдите на страницу проекта на GitHub  
 Скопируйте URL-адрес репозитория  
 Откройте терминал (или командную строку) на вашем компьютере  
-Выполните команду: git clone https://github.com/Lucretia2703/My_project1.git
+Выполните команду: `git clone https://github.com/Lucretia2703/My_project1.git`
  2. Переход в директорию проекта  
-cd My_project1
+`cd My_project1`
  3. Создание виртуального окружения  
-python3 -m venv venv
+`python3 -m venv venv`
  4. Активация виртуального окружения  
-source venv/bin/activate
+`source venv/bin/activate`
  5. Установка необходимых компонентов  
-pip install dash-bootstrap-components  
-pip install pandas  
-pip install plotly-express  
+`pip install dash-bootstrap-components`  
+`pip install pandas`  
+`pip install plotly-express`  
  6. Запуск проекта  
 Выполнить команду `python app.py`  
  7. Доступ к дашборду  
